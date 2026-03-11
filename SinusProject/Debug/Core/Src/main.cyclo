@@ -1,0 +1,5 @@
+../Core/Src/main.c:739:6:StartDefaultTask	1
+../Core/Src/main.c:194:6:SystemClock_Config	4
+../Core/Src/main.c:103:5:main	21
+../Core/Src/main.c:758:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:775:6:Error_Handler	1

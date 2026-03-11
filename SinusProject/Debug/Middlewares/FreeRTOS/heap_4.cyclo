@@ -1,0 +1,6 @@
+C:/Users/stas2/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.3/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:115:7:pvPortMalloc	21
+C:/Users/stas2/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.3/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:266:6:vPortFree	10
+C:/Users/stas2/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.3/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:315:8:xPortGetFreeHeapSize	1
+C:/Users/stas2/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.3/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:321:8:xPortGetMinimumEverFreeHeapSize	1
+C:/Users/stas2/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.3/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:327:6:vPortInitialiseBlocks	1
+C:/Users/stas2/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.3/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c:442:6:vPortGetHeapStats	3
