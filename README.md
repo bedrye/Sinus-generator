@@ -1,7 +1,7 @@
 # Sinus generator
 <p>My personal project for the STM32F429ZITX processor</p>
 
-<p>The programm comes with:</p>
+<p>The program comes with:</p>
 <li>Sinus generator (200-400Hz) (on the A5 pin) </li>
 <li>Real time readings and Visualization</li>
 <li>Timer</li>
